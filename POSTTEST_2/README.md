@@ -1,6 +1,6 @@
 # LAPORAN PRAKTIKUM PEMROGRAMAN BERBASIS OBJEK
 
-## Posttest 1
+## Posttest 2
 
 **Oleh:**
 Ridwan Nur Rahman
